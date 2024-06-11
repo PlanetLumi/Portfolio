@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Debug
+comment1.params=ending
+comment1.target=javafx.scene.image.Image\ HandleFilePath(java.lang.String)
+comment2.params=mainPane
+comment2.target=javafx.scene.layout.Pane\ HandleNullPointer(javafx.scene.layout.Pane)
+numComments=3
